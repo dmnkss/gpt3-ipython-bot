@@ -1,0 +1,1 @@
+import argparsefrom ipython_commander import process_questionif __name__ == '__main__':    # Parse question from command line    parser = argparse.ArgumentParser()    parser.add_argument('question', type=str, help='Question to ask GPT-3')    args = parser.parse_args()    response = process_question(args.question)    print(f'Answer: {response.answer}')
