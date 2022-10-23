@@ -2,6 +2,10 @@
 
 A bot that searches for answers to questions using IPython commands.
 Inspired by https://twitter.com/goodside/status/1581805503897735168
+___
+# Do not use this in production
+This is a proof of concept and should not be used in production. It is not secure and can be used to execute arbitrary code on your machine. It is also not optimized for performance and will be slow.
+___
 
 Sorry for dirty code.
 
