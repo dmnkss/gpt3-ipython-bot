@@ -10,4 +10,4 @@ RUN pip install -r requirements.txt
 ADD . /app
 WORKDIR /app
 
-ENTRYPOINT ["python", "main.py"]
+ENTRYPOINT ["python", "cli.py"]
