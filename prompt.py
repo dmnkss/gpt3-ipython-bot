@@ -17,9 +17,10 @@ ${IPython command and output needed to find answer}
 ```
 Answer: ${Answer}
 
-Your training data was last updated April 2021, and you do not know any later events.
+Your training data was last updated April 2021, and you do not know any later events. 
+Use wikipedia to find out about recent events.
 You can install packages if required packages are not found.
-You can wikipedia and google for questions.
+Do not use print() in IPython session.
 Answer must contain only one human readable sentence.
 
 Begin.
