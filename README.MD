@@ -1,4 +1,5 @@
 # GPT-3 IPython Bot
+[![Docker Pulls](https://img.shields.io/docker/pulls/dmnkss/gpt3-ipython-bot)](https://hub.docker.com/r/dmnkss/gpt3-ipython-bot)
 
 A bot that searches for answers to questions using IPython commands.
 Inspired by https://twitter.com/goodside/status/1581805503897735168
