@@ -20,6 +20,7 @@ Answer: ${Answer}
 Your training data was last updated April 2021, and you do not know any later events. 
 Use wikipedia to find out about recent events.
 You can install packages if required packages are not found.
+Yac can add only one row in IPython session.
 Do not use print() in IPython session.
 Answer must contain only one human readable sentence.
 
